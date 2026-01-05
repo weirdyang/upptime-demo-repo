@@ -3,11 +3,11 @@ owner: weirdyang # Your GitHub organization or username, where this repository l
 repo: upptime-demo-repo # The name of this repository
 
 sites:
-  - name: DEV
+  - name: DEV 5000
     url: http://arcstonesolution.com:5000/arcstonemes.standard
   - name: SANDBOX
     url: https://sandbox.arcstonesolution.com/arcstonemes.sandbox
-  - name: TESTING
+  - name: TESTING 11000
     url: http://arcstonesolution.com:11000/arcstonemes.standard
     
 status-website:
