@@ -6,7 +6,7 @@ sites:
   - name: DEV
     url: http://arcstonesolution.com:5000/arcstonemes.standard
   - name: SANDBOX
-    url: https://sandbox.arcstonesolution.com/arcstonemes.standard
+    url: https://sandbox.arcstonesolution.com/arcstonemes.sandbox
   - name: TESTING
     url: http://arcstonesolution.com:1100/arcstonemes.standard
     
