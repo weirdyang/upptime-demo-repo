@@ -8,7 +8,7 @@ sites:
   - name: SANDBOX
     url: https://sandbox.arcstonesolution.com/arcstonemes.sandbox
   - name: TESTING
-    url: http://arcstonesolution.com:1100/arcstonemes.standard
+    url: http://arcstonesolution.com:11000/arcstonemes.standard
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
