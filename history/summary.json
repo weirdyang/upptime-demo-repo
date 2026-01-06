@@ -40,19 +40,19 @@
     "url": "http://arcstonesolution.com:11000/arcstonemes.standard",
     "icon": "https://icons.duckduckgo.com/ip3/arcstonesolution.com.ico",
     "slug": "testing-11000",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2278,
-    "timeDay": 2887,
-    "timeWeek": 2278,
-    "timeMonth": 2278,
-    "timeYear": 2278,
+    "status": "up",
+    "uptime": "98.16%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
+    "time": 1933,
+    "timeDay": 2223,
+    "timeWeek": 1933,
+    "timeMonth": 1933,
+    "timeYear": 1933,
     "dailyMinutesDown": {
-      "2026-01-06": 0
+      "2026-01-06": 31
     }
   }
 ]
