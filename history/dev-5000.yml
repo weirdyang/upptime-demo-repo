@@ -1,7 +1,7 @@
 url: http://arcstonesolution.com:5000/arcstonemes.standard
-status: down
-code: 503
-responseTime: 561
-lastUpdated: 2026-01-07T12:00:05.193Z
+status: up
+code: 200
+responseTime: 814
+lastUpdated: 2026-01-07T13:05:27.359Z
 startTime: 2026-01-05T07:10:24.568Z
 generator: Upptime <https://github.com/upptime/upptime>
