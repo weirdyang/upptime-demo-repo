@@ -4,11 +4,11 @@ repo: upptime-demo-repo # The name of this repository
 
 sites:
   - name: DEV 5000
-    url: http://arcstonesolution.com:5000/arcstonemes.standard
+    url: http://arcstonesolution.com:5000
   - name: SANDBOX
-    url: https://sandbox.arcstonesolution.com/arcstonemes.sandbox
+    url: https://sandbox.arcstonesolution.com
   - name: TESTING 11000
-    url: http://arcstonesolution.com:11000/arcstonemes.standard
+    url: http://arcstonesolution.com:11000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
