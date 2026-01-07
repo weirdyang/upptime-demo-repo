@@ -22,9 +22,9 @@
     "url": "https://sandbox.arcstonesolution.com/arcstonemes.sandbox",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.arcstonesolution.com.ico",
     "slug": "sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1079,
     "timeMonth": 1079,
     "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 0
+    }
   },
   {
     "name": "TESTING 11000",
@@ -41,13 +43,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/arcstonesolution.com.ico",
     "slug": "testing-11000",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptime": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 1698,
-    "timeDay": 2137,
+    "timeDay": 758,
     "timeWeek": 1698,
     "timeMonth": 1698,
     "timeYear": 1698,
